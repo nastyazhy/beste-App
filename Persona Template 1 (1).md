@@ -1,4 +1,6 @@
-﻿BASIS   \   **EXPLORE**   \   CREATE   \   EVALUATE   \   FRAME **PROJEKTNAME![]
+﻿BASIS   \   **EXPLORE**   \   CREATE   \   EVALUATE   \   FRAME 
+
+Projekt: *Health Quest*
 
 **EXPLORE METHODE 5.2:** PERSONA
 
@@ -46,6 +48,4 @@ Augenfarbe: braun
 - Konsistent bleiben
 - Motivation 
 
-
-Template 6.3.6: digital-innovation-playbook.de/templates/explore![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.008.png)![ref1]![ref1]![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.010.png)
 
