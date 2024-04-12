@@ -1,25 +1,51 @@
-﻿BASIS   \   **EXPLORE**   \   CREATE   \   EVALUATE   \   FRAME **PROJEKTNAME![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.001.png)**
+﻿BASIS   \   **EXPLORE**   \   CREATE   \   EVALUATE   \   FRAME **PROJEKTNAME![]
 
 **EXPLORE METHODE 5.2:** PERSONA
 
-ZEICHNE          DEINE PERSONA ![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.002.png)![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.003.png)
+ZEICHNE DEINE PERSONA !
 
-*Mein n chster Urlaub Meine Lieblings-Apps![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.004.png)*
+*Mein nächster Urlaub*
+
+Italien
+
+*Meine Lieblings-Apps*
+
+- Youtube / TikTok
+- Brawl Stars
 
 *Das ist ein Tick von mir Das ist mein Problem* 
 
-*Ein typischer Tag![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.005.png)*
+Zu viel Bildschirnzeit (Gaming) 
 
-DARK HORSE INNOVATION: **DIGITAL INNOVATION PLAYBOOK![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.006.png)**
+*Ein typischer Tag*
 
-BESCHREIBUNG  
+- früh aufstehen
+- Arbeit/Schule (Lehre)
+- Gamen
+- Familien nerven
+- Freunde treffen
+- (manchmal) Fitness
 
-DER PERSON![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.007.png)
 
-*Haarfarbe, Gr  e, Alter etc.*
+BESCHREIBUNG DER PERSON
+*Haarfarbe, Grösse, Alter etc.*
 
-*Das sind meine Ziele*
+Grösse: 1.71 m
+Alter: 16
+Haarfarbe: schwarz
+Augenfarbe: braun
+
+*Das sind meine Ziele*
+
+- Sportlich / Gesund sein
+- Schule & Life balance
+
+*Das ist mein Problem*
+
+- Gewohnheiten entwickeln
+- Konsistent bleiben
+- Motivation 
+
 
 Template 6.3.6: digital-innovation-playbook.de/templates/explore![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.008.png)![ref1]![ref1]![](Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.010.png)
 
-[ref1]: Aspose.Words.334a09dd-19da-4ca2-9c1c-c3def5f82241.009.png
