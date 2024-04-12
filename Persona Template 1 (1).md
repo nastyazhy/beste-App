@@ -8,7 +8,7 @@ ZEICHNE DEINE PERSONA !
 
 *Mein nächster Urlaub*
 
-Italien
+- Italien
 
 *Meine Lieblings-Apps*
 
@@ -17,7 +17,7 @@ Italien
 
 *Das ist ein Tick von mir Das ist mein Problem* 
 
-Zu viel Bildschirnzeit (Gaming) 
+- Zu viel Bildschirnzeit (Gaming) 
 
 *Ein typischer Tag*
 
@@ -32,10 +32,10 @@ Zu viel Bildschirnzeit (Gaming)
 BESCHREIBUNG DER PERSON
 *Haarfarbe, Grösse, Alter etc.*
 
-Grösse: 1.71 m
-Alter: 16
-Haarfarbe: schwarz
-Augenfarbe: braun
+- Grösse: 1.71 m
+- Alter: 16
+- Haarfarbe: schwarz
+- Augenfarbe: braun
 
 *Das sind meine Ziele*
 
