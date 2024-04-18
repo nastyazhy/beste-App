@@ -1,14 +1,13 @@
 **Nutzertest mit Wireframe**
 
-[Hypothesenbildung]{.underline}:
+[Hypothesenbildung]:
 
 Wir möchten herausfinden, ob die Benutzer den Wireframe intuitiv
 verstehen und navigieren können.
-
 Ein positives Ergebnis wäre, wenn die Benutzer die Hauptfunktionen der
 App ohne Schwierigkeiten finden und nutzen können.
 
-[Bewertung]{.underline}:
+[Bewertung]:
 
 Was war gut?
 
