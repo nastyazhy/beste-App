@@ -18,11 +18,13 @@ Was war gut?
 \- Memes/Inspirierende Sprüche
 
 
+
 Was war schlecht?
 
 \- nicht zu viele Funktionen (also simple halten)
 
 \- Wireframe sollte vielleicht farbig sein
+
 
 
 Neue Ideen?
@@ -31,6 +33,7 @@ Neue Ideen?
 hinschreiben)
 
 \- Artikel nicht zu kompliziert schreiben, so dass alle verstehen
+
 
 
 Neue Probleme?
