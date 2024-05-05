@@ -48,7 +48,6 @@ def registration_page():
 
         # Display avatars in a row
         selected_avatar = None
-        st.sidebar.title("Select your avatar")
 
         for i, (avatar_name, avatar_path) in enumerate(avatars.items()):
             col1, col2 = st.columns([3, 1])
