@@ -1,4 +1,3 @@
-from tkinter import Image
 import streamlit as st
 import random
 import json
